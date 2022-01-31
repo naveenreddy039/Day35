@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "fde27bb4-16d0-4e0b-9a64-251379ffd096": {
+      "ProjectGuid": "fde27bb4-16d0-4e0b-9a64-251379ffd096",
+      "DisplayName": "LinqAddressBook",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
